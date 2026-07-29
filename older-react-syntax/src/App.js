@@ -5,7 +5,7 @@ class App extends Component {
 	render() {
 		return (
 			<div className="App">
-				<header className="App-header">
+				<header id="header1" className="App-header">
 					<img src="favicon.svg" className="App-logo" alt="logo" />
 					<h1>Welcome to React</h1>
 				</header>
